@@ -1,2 +1,2 @@
 # mattsoul
-codigo del programa de gamificaion sena
+codigo del programa de gamificacion del sena
